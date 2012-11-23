@@ -1,0 +1,4 @@
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HOP\bin\Debug\HOP.dll
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HOP\bin\Debug\HOP.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HOP\obj\Debug\HOP.dll
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HOP\obj\Debug\HOP.pdb

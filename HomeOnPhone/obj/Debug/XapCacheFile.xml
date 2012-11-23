@@ -1,0 +1,46 @@
+﻿<xapCache source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\HomeOnPhone.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="9/4/2012 12:01:50 AM">
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="8/31/2012 10:43:49 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\DefaultHome.png" archivePath="Images\DefaultHome.png" lastWriteTime="8/31/2012 10:49:09 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\DefaultHome.png" archivePath="Images\DefaultHome.png" lastWriteTime="8/31/2012 10:49:09 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\obj\Debug\HomeOnPhone.dll" archivePath="HomeOnPhone.dll" lastWriteTime="9/4/2012 12:01:49 AM" />
+  <file source="C:\Users\Ahmed\Documents\Microsoft Visual Studio Async CTP\Samples\AsyncCtpLibrary_Phone.dll" archivePath="AsyncCtpLibrary_Phone.dll" lastWriteTime="10/17/2011 8:48:02 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="9/15/2011 3:36:26 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v7.1\Toolkit\Oct11\Bin\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="10/6/2011 11:33:14 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\packages\Newtonsoft.Json.4.5.8\lib\sl4-windowsphone71\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="8/9/2012 8:38:05 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\packages\protobuf-net.2.0.0.480\lib\sl3-wp\protobuf-net.dll" archivePath="protobuf-net.dll" lastWriteTime="7/25/2012 6:21:12 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Telerik.Windows.Controls.Primitives.dll" archivePath="Telerik.Windows.Controls.Primitives.dll" lastWriteTime="6/7/2012 3:43:18 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Telerik.Windows.Core.dll" archivePath="Telerik.Windows.Core.dll" lastWriteTime="6/7/2012 3:39:48 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/20/2012 8:05:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Background.png" archivePath="Background.png" lastWriteTime="7/20/2012 8:05:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\appbar.minus.rest.png" archivePath="Images\appbar.minus.rest.png" lastWriteTime="7/27/2012 12:36:38 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\appbar.new.rest.png" archivePath="Images\appbar.new.rest.png" lastWriteTime="7/27/2012 12:36:38 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\Camera.png" archivePath="Images\Camera.png" lastWriteTime="7/24/2012 10:34:11 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\map-pin-green-th.png" archivePath="Images\map-pin-green-th.png" lastWriteTime="8/31/2012 8:28:07 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\Map_pin3.png" archivePath="Images\Map_pin3.png" lastWriteTime="7/30/2012 12:19:45 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0000_navigation.ico" archivePath="Images\MB_0000_navigation.ico" lastWriteTime="8/31/2012 10:26:19 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0000_navigation.png" archivePath="Images\MB_0000_navigation.png" lastWriteTime="8/31/2012 10:29:28 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0002_compas1.ico" archivePath="Images\MB_0002_compas1.ico" lastWriteTime="8/31/2012 10:26:23 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0002_compas1.png" archivePath="Images\MB_0002_compas1.png" lastWriteTime="8/31/2012 10:30:47 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0005_Camera.png" archivePath="Images\MB_0005_Camera.png" lastWriteTime="7/24/2012 10:39:57 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0005_POI.png" archivePath="Images\MB_0005_POI.png" lastWriteTime="8/31/2012 10:30:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0006_back - Copy.png" archivePath="Images\MB_0006_back - Copy.png" lastWriteTime="7/25/2012 1:58:18 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0006_back.png" archivePath="Images\MB_0006_back.png" lastWriteTime="9/1/2012 8:03:32 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0006_gmaps.png" archivePath="Images\MB_0006_gmaps.png" lastWriteTime="7/25/2012 1:58:32 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\MB_0011_macro.png" archivePath="Images\MB_0011_macro.png" lastWriteTime="7/24/2012 10:44:52 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\nophoto_church.png" archivePath="Images\nophoto_church.png" lastWriteTime="7/25/2012 8:49:57 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\search.png" archivePath="Images\search.png" lastWriteTime="7/27/2012 4:01:58 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\white-google-map-pin-th.png" archivePath="Images\white-google-map-pin-th.png" lastWriteTime="7/31/2012 12:15:36 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Images\map-pin-red-th.png" archivePath="Images\map-pin-red-th.png" lastWriteTime="8/1/2012 5:35:23 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="7/20/2012 8:05:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="8/9/2012 8:33:39 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\MB_0000_navigation.png" archivePath="Images\MB_0000_navigation.png" lastWriteTime="8/31/2012 10:29:28 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\MB_0002_compas1.png" archivePath="Images\MB_0002_compas1.png" lastWriteTime="8/31/2012 10:30:47 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\MB_0005_POI.png" archivePath="Images\MB_0005_POI.png" lastWriteTime="8/31/2012 10:30:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\MB_0006_back.png" archivePath="Images\MB_0006_back.png" lastWriteTime="9/1/2012 8:03:32 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\white-google-map-pin-th.png" archivePath="Images\white-google-map-pin-th.png" lastWriteTime="7/31/2012 12:15:36 AM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="7/20/2012 8:05:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="7/20/2012 8:05:44 PM" />
+  <file source="C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\HomeOnPhone\HomeOnPhone\Bin\Debug\Images\search.png" archivePath="Images\search.png" lastWriteTime="7/27/2012 4:01:58 PM" />
+</xapCache>

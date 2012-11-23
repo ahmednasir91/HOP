@@ -1,0 +1,85 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="HomeOnPhone.SellHomeSec"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="696" d:DesignWidth="480"
+    shell:SystemTray.IsVisible="True">
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="{StaticResource ApplicationTitle}" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock x:Name="PageTitle" Text="{Binding Path=PageTitle}" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ScrollViewer>
+                <StackPanel Orientation="Vertical">
+                    <StackPanel.Resources>
+                        <Style TargetType="TextBox">
+                            <Setter Property="Width" Value="400"></Setter>
+                            <Setter Property="HorizontalAlignment" Value="Left"></Setter>
+                        </Style>                  
+                        
+
+                        <Style TargetType="TextBlock">
+                            <Setter Property="FontSize" Value="26"></Setter>
+                            <Setter Property="Margin" Value="10, 10, 10, 0"></Setter>
+                        </Style>
+
+                    </StackPanel.Resources>
+
+
+                    <TextBlock Text="Location"></TextBlock>
+                    <TextBox Text="{Binding Location}" IsEnabled="False"></TextBox>
+                    <TextBlock Text="Address"></TextBlock>
+                    <TextBox Text="{Binding Address, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="Owner's Name"></TextBlock>
+                    <TextBox Text="{Binding Owner, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" InputScope="PersonalFullName" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="Email Address"></TextBlock>
+                    <TextBox InputScope="EmailUserName" Text="{Binding EmailAddress, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="Price (in thousands PKR)"></TextBlock>
+                    <TextBox Name="PriceTextbox" Text="{Binding Price, Mode=TwoWay, ValidatesOnDataErrors=True, NotifyOnValidationError=True, UpdateSourceTrigger=Default}" InputScope="Number" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="Sell/Rent"></TextBlock>
+                    <toolkit:ListPicker ExpansionMode="ExpansionAllowed" HorizontalAlignment="Left" Width="380" ItemsSource="{Binding SellTypes}" SelectedItem="{Binding SellType}"></toolkit:ListPicker>
+                    <TextBlock Text="Beds"></TextBlock>
+                    <TextBox InputScope="Number" Text="{Binding Beds, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="Baths"></TextBlock>
+                    <TextBox InputScope="Number" Text="{Binding Baths, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="SqFt"></TextBlock>
+                    <TextBox InputScope="Number" Text="{Binding SqFt, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="TestField"></TextBlock>
+                    <TextBox InputScope="Number" Text="{Binding TestField, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                    <TextBlock Text="TestField2"></TextBlock>
+                    <TextBox InputScope="Number" Text="{Binding TestField2, ValidatesOnDataErrors=True, NotifyOnValidationError=True, Mode=TwoWay, UpdateSourceTrigger=Default}" BindingValidationError="TextBox_BindingValidationError"></TextBox>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+    <!--Sample code showing usage of ApplicationBar-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton IconUri="/Images/MB_0006_gmaps.png" Text="Maps" Click="MapsButton_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/MB_0005_Camera.png" Text="Camera" Click="CameraButton_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/MB_0011_macro.png" Text="Album" Click="AlbumButton_Click"/>
+            <shell:ApplicationBarIconButton IconUri="/Images/MB_0006_back - Copy.png" Text="Preview" Click="PreviewButton_Click" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

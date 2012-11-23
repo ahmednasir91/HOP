@@ -1,0 +1,261 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:App.xaml" caret="0" fromTop="0" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:Library/f:GoogleMapSearch.cs" caret="432" fromTop="21" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:MainPage.xaml.cs" caret="539" fromTop="13" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:Library/f:GoogleTile.cs" caret="452" fromTop="8" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:MainPage.xaml" caret="1986" fromTop="36" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml" caret="3547" fromTop="10" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml.cs" caret="865" fromTop="16" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="1913" fromTop="16" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="1621" fromTop="21" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="5720" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:Library/f:GoogleMapSearch.cs" caret="420" fromTop="16" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:Library/f:GoogleMapSearch.cs" caret="420" fromTop="28" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="451" fromTop="12" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:Library/f:GoogleMapSearch.cs" caret="420" fromTop="3" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="1526" fromTop="15" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="2266" fromTop="18" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml" caret="7577" fromTop="14" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml" caret="7476" fromTop="14" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml.cs" caret="879" fromTop="19" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="5830" fromTop="22" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="1335" fromTop="31" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="1389" fromTop="15" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="518" fromTop="11" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="724" fromTop="17" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml" caret="1898" fromTop="12" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="1472" fromTop="19" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml.cs" caret="464" fromTop="9" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml.cs" caret="1077" fromTop="23" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="833" fromTop="13" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="509" fromTop="8" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="1950" fromTop="21" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="2119" fromTop="23" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml" caret="2542" fromTop="28" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/d:ViewModels/f:SellHomeViewModel.cs" caret="1621" fromTop="21" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHomeSec.xaml.cs" caret="865" fromTop="16" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="267" fromTop="12" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="137" fromTop="5" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="1306" fromTop="16" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="1442" fromTop="21" />
+      <File id="F45031DC-8C38-4CD7-B810-929F78FFA406/f:SellHome.xaml.cs" caret="5439" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.6\bin\net-2.0\lib</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:System.Windows.Controls.RadioButton">
+      <Item value="ActualHeight" priority="22" />
+      <Item value="IsChecked" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="LocationTextBox" priority="95" />
+      <Item value="ctor" priority="31" />
+      <Item value="HttpWebRequest`0" priority="193" />
+      <Item value="_webRequest" priority="64" />
+      <Item value="WebRequest`0" priority="63" />
+      <Item value="as" priority="191" />
+      <Item value="public" priority="127" />
+      <Item value="string" priority="190" />
+      <Item value="struct" priority="30" />
+      <Item value="double" priority="31" />
+      <Item value="Location`0" priority="63" />
+      <Item value="private" priority="63" />
+      <Item value="WebClient`0" priority="127" />
+      <Item value="using" priority="159" />
+      <Item value="var" priority="319" />
+      <Item value="new" priority="543" />
+      <Item value="WebClient" priority="84" />
+      <Item value="String`0" priority="256" />
+      <Item value="_requestUri" priority="127" />
+      <Item value="address" priority="186" />
+      <Item value="IApplicationService`0" priority="63" />
+      <Item value="request" priority="191" />
+      <Item value="client" priority="127" />
+      <Item value="StreamReader" priority="57" />
+      <Item value="Uri" priority="57" />
+      <Item value="WebResponse`0" priority="31" />
+      <Item value="HttpWebRequest" priority="28" />
+      <Item value="response" priority="31" />
+      <Item value="json" priority="223" />
+      <Item value="reader" priority="58" />
+      <Item value="return" priority="127" />
+      <Item value="JObject" priority="57" />
+      <Item value="Location" priority="28" />
+      <Item value="location" priority="442" />
+      <Item value="allDone" priority="191" />
+      <Item value="if" priority="63" />
+      <Item value="else" priority="31" />
+      <Item value="googlemap" priority="218" />
+      <Item value="Dispatcher" priority="31" />
+      <Item value="MessageBox`0" priority="127" />
+      <Item value="try" priority="31" />
+      <Item value="Thread`0" priority="31" />
+      <Item value="true" priority="31" />
+      <Item value="ex" priority="31" />
+      <Item value="static" priority="31" />
+      <Item value="ManualResetEvent`0" priority="31" />
+      <Item value="ManualResetEvent" priority="28" />
+      <Item value="Uri`0" priority="31" />
+      <Item value="UriFormat`0" priority="26" />
+      <Item value="UriKind`0" priority="58" />
+      <Item value="WriteStreamClosedEventArgs`0" priority="31" />
+      <Item value="e" priority="127" />
+      <Item value="JObject`0" priority="31" />
+      <Item value="GeoCoordinate" priority="28" />
+      <Item value="LocationRect" priority="28" />
+      <Item value="NavigationService" priority="31" />
+      <Item value="override" priority="31" />
+      <Item value="viewModel" priority="287" />
+      <Item value="p" priority="31" />
+      <Item value="is" priority="31" />
+      <Item value="Pushpin`0" priority="64" />
+      <Item value="pushpin" priority="31" />
+      <Item value="queryString" priority="31" />
+      <Item value="prop" priority="63" />
+      <Item value="SellHome`0" priority="30" />
+      <Item value="SellHomeViewModel" priority="28" />
+      <Item value="Application`0" priority="32" />
+      <Item value="App`0" priority="32" />
+      <Item value="NavigationContext" priority="31" />
+      <Item value="data" priority="95" />
+      <Item value="PageTitle" priority="31" />
+      <Item value="DataContext" priority="95" />
+      <Item value="SellHomeViewModel`0" priority="32" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="161" />
+      <Item value="Equals`0" priority="53" />
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebRequest">
+      <Item value="Method" priority="26" />
+      <Item value="Accept" priority="26" />
+      <Item value="BeginGetResponse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="Headers" priority="26" />
+      <Item value="OpenReadAsync`0" priority="22" />
+      <Item value="DownloadStringAsync`0" priority="26" />
+      <Item value="DownloadStringCompleted" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.HttpWebRequest">
+      <Item value="CreateHttp`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="GetResponseStream`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HomeOnPhone.Library.Location">
+      <Item value="Error" priority="134" />
+      <Item value="Latitude" priority="54" />
+      <Item value="Longitude" priority="27" />
+      <Item value="ErrorMessage" priority="80" />
+      <Item value="FormattedAddress" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Newtonsoft.Json.Linq.JObject">
+      <Item value="SelectToken`0" priority="108" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set`0" priority="80" />
+      <Item value="WaitOne`0" priority="53" />
+      <Item value="Reset`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@HomeOnPhone.Library.GoogleMapSearch">
+      <Item value="SearchAddress`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Threading.Dispatcher">
+      <Item value="BeginInvoke`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.UriKind">
+      <Item value="Absolute" priority="26" />
+      <Item value="Relative" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.DownloadStringCompletedEventArgs">
+      <Item value="Result" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Newtonsoft.Json.Linq.JObject">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBoxButton">
+      <Item value="OK" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.Map">
+      <Item value="Center" priority="53" />
+      <Item value="ZoomLevel" priority="26" />
+      <Item value="BoundingRectangle" priority="26" />
+      <Item value="Children" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationService">
+      <Item value="Navigate`0" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HomeOnPhone.ViewModels.SellHomeViewModel">
+      <Item value="Location" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Single`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Phone.Controls.Maps.Pushpin">
+      <Item value="Location" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Device.Location.GeoCoordinate">
+      <Item value="Latitude" priority="26" />
+      <Item value="Longitude" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Application">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationEventArgs">
+      <Item value="Content" priority="26" />
+      <Item value="Uri" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="Query" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Navigation.NavigationContext">
+      <Item value="QueryString" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToDouble`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="XamlCodeCompletionContext">
+      <Item value="Binding`0" priority="5" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

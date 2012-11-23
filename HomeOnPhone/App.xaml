@@ -1,0 +1,66 @@
+﻿<Application 
+    x:Class="HomeOnPhone.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:Microsoft_Phone_Controls_Maps="clr-namespace:Microsoft.Phone.Controls.Maps;assembly=Microsoft.Phone.Controls.Maps"
+    xmlns:telerikPrimitives="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Primitives"
+    mc:Ignorable="d">
+
+    <!--Application Resources-->
+    <Application.Resources>
+        <Style TargetType="telerikPrimitives:RadToolTip" x:Key="TooltipStyle">
+            <Setter Property="Background" Value="LightGray"></Setter>
+        </Style>
+        <ControlTemplate x:Key="PushpinControlTemplate" TargetType="Microsoft_Phone_Controls_Maps:Pushpin">
+            <Grid x:Name="ContentGrid" Width="35" Height="50" Margin="-17 0 0 0" telerikPrimitives:RadToolTipService.ShowGesture="Tap">
+                <telerikPrimitives:RadToolTipService.ToolTip>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding Path=Image}" Height="100" Width="100"></Image>
+                        <StackPanel Orientation="Vertical" Width="150" Margin="10">
+                            <TextBlock TextWrapping="Wrap" FontSize="15" Text="{Binding Path= Address}"></TextBlock>
+                            <TextBlock FontSize="20" Text="{Binding Path=Price, StringFormat=' {0:n0} PKR'}"></TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+                </telerikPrimitives:RadToolTipService.ToolTip>
+                <Image Source="/Images/map-pin-red-th.png" Stretch="Fill"/>
+                <ContentPresenter Content="{TemplateBinding Content}" Margin="14 6 0 10">
+                    <ContentPresenter.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Foreground="Black" FontWeight="Bold" FontSize="18" Text="{Binding}"></TextBlock>
+                        </DataTemplate>
+                    </ContentPresenter.ContentTemplate>
+                </ContentPresenter>
+            </Grid>
+        </ControlTemplate>
+        <ControlTemplate x:Key="PushpinControlCurrentTemplate" TargetType="Microsoft_Phone_Controls_Maps:Pushpin">
+            <Grid x:Name="ContentGrid" Width="35" Height="50" Margin="-17 0 0 0">
+                <Image Source="/Images/map-pin-green-th.png" Stretch="Fill"/>
+                <ContentPresenter Content="{TemplateBinding Content}" Margin="4 6 0 10">
+                    <ContentPresenter.ContentTemplate>
+                        <DataTemplate>
+                            <TextBlock Foreground="Black" FontWeight="Bold" FontSize="18" Text="{Binding}"></TextBlock>
+                        </DataTemplate>
+                    </ContentPresenter.ContentTemplate>
+                </ContentPresenter>
+            </Grid>
+        </ControlTemplate>
+
+        <sys:String x:Key="ApplicationTitle">Homes On Phone</sys:String>
+        
+        
+        
+        <!-- Pushpin Style -->
+    </Application.Resources>
+
+    <Application.ApplicationLifetimeObjects>
+        <!--Required object that handles lifetime events for the application-->
+        <shell:PhoneApplicationService 
+            Launching="Application_Launching" Closing="Application_Closing" 
+            Activated="Application_Activated" Deactivated="Application_Deactivated"/>
+    </Application.ApplicationLifetimeObjects>
+
+</Application>
